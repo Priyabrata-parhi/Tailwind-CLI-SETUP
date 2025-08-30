@@ -1,0 +1,10 @@
+/* simply copy the code */
+@import "tailwindcss";
+
+
+/* This code paste in the package.json */
+/* you write the terminal --> npm run dev */
+
+   /* "scripts": {
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  } */
